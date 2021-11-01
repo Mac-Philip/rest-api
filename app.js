@@ -49,7 +49,7 @@ app.get('/',(req, res) => {
 
 
 
-//before creating a route how do we listen to a server
+//before creating a route how do we listen to a Server
 //take the variable applied to execute express, give it a listen event then add the port you want to listen on
 app.listen(3000);
 
